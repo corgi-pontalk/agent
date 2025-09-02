@@ -1,0 +1,16 @@
+Alice: Bob, are you okay? You look like you just saw a ghost... or maybe a really big spider!
+Bob: Alice! Oh, hi. Am I okay? Uh, yes, I am. Did you see that bird? It tried to steal my croissant!
+Alice: A bird tried to steal your croissant? Is it a very hungry bird?
+Bob: Yes, I think so! Is your croissant safe?
+Alice: My croissant? Oh, yes, it is. Did you finish yours?
+Bob: No, I didn't! The bird took a bite! Do you have another one?
+Alice: No, I don't, sorry. Are you still hungry?
+Bob: Yes, I am! Is there a bakery nearby?
+Alice: Hmm, yes, there is! Do you want to go now?
+Bob: Yes, please! Can we run? I'm starving!
+Alice: Run? Are you serious?
+Bob: Yes! Are you fast?
+Alice: Am I fast? Maybe for cake, not for birds! Do you like apple pie?
+Bob: Yes! Is it delicious at that bakery?
+Alice: Oh, yes, it is! Are you ready for some pie *and* a new croissant?
+Bob: Yes! Let's go before another bird attacks! 
