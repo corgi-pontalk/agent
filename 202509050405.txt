@@ -1,0 +1,17 @@
+Alice: Bob, guess what! I met someone amazing today!
+Bob: Oh really, Alice? Tell me all about it!
+Alice: He was so charming! He said he was from... uh... 'Maple Syrup Land'?
+Bob: Maple Syrup Land? Alice, do you mean _Canada_? So he's _Canadian_!
+Alice: Yes! Canadian! And his friend was from the land of 'Koalas and Kangaroos'!
+Bob: Haha, you mean _Australia_! So, _Australian_?
+Alice: Exactly! And *I* said *I* was from the land of 'Tea and Crumpets'!
+Bob: You told them you're _British_ , then?
+Alice: Yup! But then I met someone who spoke really fast and had an amazing accent. She was from 'Pizza and Pasta' land!
+Bob: That would be _Italy_ , so she's _Italian_!
+Alice: And then another guy, very serious, from 'Clocks and Chocolate'!
+Bob: Sounds _Swiss_ to me! He's _Swiss_.
+Alice: And what about you, Bob? Where are *you* from, officially?
+Bob: Well, Alice, I'm from the land of 'Hot Dogs and Hollywood'! So I'm _American_.
+Alice: Right! I knew that. But now I'm hungry for pizza and maple syrup!
+Bob: Me too! Maybe we should visit them all, Alice. Start with Canada, then Australia, then Italy...
+Alice: Sounds like a delicious plan, Bob! But first, a map! 
