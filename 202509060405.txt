@@ -1,0 +1,18 @@
+Alice: Hey, Bob! Long time no see!
+Bob: Hi, Alice! You too! How have you been?
+Alice: Great, thanks! So, what's new with you? Still making amazing food?
+Bob: Haha, sometimes! I'm a chef, you know. Mostly I make a mess. What about you? What do you do these days?
+Alice: Oh, me? I'm a web designer. I make websites look pretty.
+Bob: A web designer! That's cool. So, you make the internet beautiful? Sounds like a superhero job!
+Alice: Sometimes it feels like it, fixing broken links and fighting ugly fonts! What kind of chef are you? Fancy restaurant?
+Bob: Not exactly fancy. I work at a small cafe. My specialty is making toast that looks like a masterpiece.
+Alice: A toast artist! I love it. Hey, do you know what our friend Lily does now? I saw her yesterday.
+Bob: Lily? Oh, I think she’s a librarian. She loves books.
+Alice: A librarian? Really? I thought she was a secret agent! She always looks so mysterious with those big glasses.
+Bob: (Laughing) A secret agent librarian? That would be amazing! No, she just organizes books. And sometimes she whispers.
+Alice: See! Whispering is a secret agent skill! Maybe she’s undercover.
+Bob: (Chuckles) Well, if she is, her cover is being *very* quiet with books.
+Alice: My imagination is much more exciting than reality, Bob!
+Bob: It definitely is, Alice!
+Alice: It was great catching up!
+Bob: You too! Bye! 
