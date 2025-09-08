@@ -1,0 +1,15 @@
+Alice: Hey Bob, what are you up to now? You look deep in thought.
+Bob: Oh, hi Alice! Just calculating... Is it lunchtime yet? My stomach clock is very insistent.
+Alice: Haha! No, Bob, it's only 10 o'clock in the morning. We literally just finished breakfast an hour ago!
+Bob: Already? My internal clock must be set to "always hungry." So, what's happening this afternoon?
+Alice: We have our coffee date, remember? Around 3 PM. Don't you dare be late this time!
+Bob: Never! I'll be there on the dot. What about tomorrow? Park plans still on?
+Alice: Absolutely! Let's meet at 9:30 AM tomorrow morning. And please, try to arrive on time!
+Bob: I will! I promise! What did you do yesterday? I didn't see you.
+Alice: Yesterday evening, I went to a concert. It was amazing! I got home super late.
+Bob: Nice! I was busy all day yesterday studying. Hey, I have a quick meeting in five minutes, actually!
+Alice: In five minutes?! Bob, you always do this! You need to go right now!
+Bob: Oh no! You're right! Okay, gotta run! See you later this afternoon!
+Alice: Good luck! Try to check the time next time!
+Bob: I will! Bye, Alice!
+Alice: Bye, Bob! 
