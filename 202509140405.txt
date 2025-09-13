@@ -1,0 +1,17 @@
+Alice: Hey Bob, do you remember where that new coffee shop is?
+Bob: Oh, Alice! Yes, I do! It's super close.
+Alice: Great! My phone battery is dead. Can you tell me?
+Bob: Okay, so you go straight from here.
+Alice: Straight? Like... don't turn?
+Bob: Exactly! Then, you'll see a big, blue building.
+Alice: A blue building... Got it.
+Bob: At the blue building, turn left.
+Alice: Left. My left or your left if you were facing the building?
+Bob: Uh... your left! Always your left. Then walk a little more.
+Alice: Okay, walking. Is it far?
+Bob: No, no. After that left, you'll see a small park. The coffee shop is right across from the park. Maybe turn right after the park?
+Alice: Wait, right after the park? So, left at the blue building, then right after the park?
+Bob: Yes! Or... wait. Is it right or left after the park? My sense of direction is terrible after coffee.
+Alice: Bob! You just had coffee! Maybe I should just follow my nose for coffee beans.
+Bob: Haha, probably a better plan, Alice! But seriously, it's straight, then left, then... maybe right? Or just look for the giant coffee cup sign!
+Alice: I'll look for the giant coffee cup. Thanks for the... adventure, Bob! 
