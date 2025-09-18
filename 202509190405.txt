@@ -1,0 +1,15 @@
+Alice: Hey Bob, what do you want to do today?
+Bob: Hmm, Alice, I just want to relax.
+Alice: Relax? But we always relax! Let's go somewhere!
+Bob: Go where? My bed is calling me.
+Alice: No, no! Let's go to the park! We can play frisbee!
+Bob: Play? That sounds like… exercise. Can we eat first?
+Alice: Bob! You always want to eat! What do you want to eat?
+Bob: Pizza! And then drink some soda.
+Alice: Pizza and soda? That's not very healthy for playing frisbee.
+Bob: It's fuel! After pizza, I can definitely go play. Maybe.
+Alice: Okay, fine. We can eat pizza. But _then_ we go to the park and play frisbee for at least an hour.
+Bob: Deal! But I also want to drink a big milkshake after playing.
+Alice: You're impossible! But okay, a milkshake sounds good. So, first we eat pizza, then we go to the park to play, and then we drink milkshakes?
+Bob: Perfect plan, Alice! You're the best!
+Alice: I know, Bob. Now, let's go get that pizza! 
