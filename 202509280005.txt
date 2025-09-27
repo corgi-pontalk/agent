@@ -1,0 +1,15 @@
+Alice: Bob, did you see that article? They're letting _robots_ decide who goes to jail!
+Bob: Whoa, Alice, 'robots' is a bit dramatic, isn't it? It's more like AI algorithms helping judges.
+Alice: Same difference! Next thing you know, we'll have RoboCop as a prosecutor and a Roomba as a jury. 'Guilty! For leaving crumbs on the floor!'
+Bob: Haha, I'm sure it's not that extreme. They use AI for things like predicting recidivism, or analyzing evidence faster.
+Alice: Recidivism? So, AI decides if you're _likely_ to re-offend? What if I just have a perpetually grumpy face? Will AI tag me as a potential menace?
+Bob: That's a fair point about bias. There are definitely concerns about AI reflecting existing societal biases in its data.
+Alice: Exactly! Imagine 'Judge AI-fred' saying, 'Based on your coffee order history, you exhibit chaotic tendencies. Ten years for reckless latte-making!'
+Bob: Okay, that's hilarious. But the idea is to make the system more efficient, not less fair. Think about sifting through mountains of evidence.
+Alice: True, I guess. No more dusty old files, just instant data analysis. 'Your honor, the AI has concluded the defendant's alibi is statistically improbable due to their known love for Tuesdays at the arcade.'
+Bob: See? It could speed things up significantly. Less backlog, quicker trials.
+Alice: But what if it makes a mistake? Can you appeal to a supercomputer? 'Error 404: Justice Not Found'?
+Bob: That's why humans are still in charge. The AI is a tool, a _support system_ , not the final decision-maker. At least, that's the current goal.
+Alice: For now. I'm just picturing a future where AI handles everything, and we're all just trying to guess what data points it's judging us on.
+Bob: Maybe we just need to be extra polite to our smart home devices. Just in case they're collecting 'good citizen' data.
+Alice: Good point, Bob! I'm off to apologize to my toaster for burning my breakfast. 
