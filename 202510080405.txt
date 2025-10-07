@@ -1,0 +1,16 @@
+## Dialogue Alice and Bob are friends. Bob is trying to send an important email.
+Alice: Hey Bob, what's wrong? You look like you're fighting a computer!
+Bob: Alice! Oh, thank goodness. I am! I need to send this really important email, but it's not working right.
+Alice: What's the problem? Did you forget the 'send' button?
+Bob: No, no, I clicked it! But then I realized... I forgot the attachment!
+Alice: Haha, the classic move! What's the attachment?
+Bob: It's my super secret recipe for banana bread. It's for my boss.
+Alice: Your boss? For banana bread? Is that work-related?
+Bob: Well, it's a 'team-building' exercise. She asked everyone to bring their favorite recipe.
+Alice: Okay, that's fun! Did you write a subject line?
+Bob: Yes! 'My Banana Bread Will Conquer All!'
+Alice: Bob! That's... enthusiastic. Maybe change it to 'Banana Bread Recipe - Bob'?
+Bob: Hmm, good point. More professional. And I need to attach the file again, right?
+Alice: Exactly. Click the little paperclip icon, find your file, and then hit send again.
+Bob: Got it! And next time, I'll check for attachments _before_ sending.
+Alice: Smart move! Good luck with the banana bread conquest! 
