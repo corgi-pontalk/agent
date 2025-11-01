@@ -1,0 +1,15 @@
+Alice: Oh, Bob, thank goodness! I thought I'd never find anyone!
+Bob: Alice? What are you doing here? You look a bit... lost.
+Alice: I am! Completely! I'm trying to find the new cat cafe, "Purr-fect Coffee." Do you know where it is?
+Bob: Purr-fect Coffee? Hmm, I think I know it. It's not too far from here.
+Alice: Really? That's great! My map app is sending me in circles. It says "turn right at the giant banana statue," but there's no banana statue!
+Bob: (Laughs) There _was_ a giant banana statue, but they moved it last month. It's now a giant pineapple!
+Alice: A pineapple? No wonder! So, how do I get to the cat cafe from here?
+Bob: Okay, so from here, walk straight ahead for about two blocks.
+Alice: Straight ahead, two blocks. Got it.
+Bob: Then, you'll see a big red building on your left. That's a toy store.
+Alice: A toy store, on my left. Okay.
+Bob: Turn right after the toy store. The cat cafe will be right there, next to the small park.
+Alice: So, straight for two blocks, red toy store on the left, then turn right, and it's next to the park. Got it! Thank you so much, Bob! You're a lifesaver!
+Bob: No problem, Alice! Don't get lost again!
+Alice: I'll try not to! Maybe I'll see you there later for a coffee... and a cat cuddle! 
