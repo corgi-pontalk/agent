@@ -1,0 +1,15 @@
+Alice: Hey Bob, what are you up to today?
+Bob: Hi Alice! Just thinking about trying to be more active. You always seem so energetic!
+Alice: Oh, really? That's great! Do you play any sports?
+Bob: Well... I _try_ to play soccer sometimes. Mostly, the ball tries to get away from me.
+Alice: Haha! I can imagine! I love playing tennis. It's so fast-paced!
+Bob: Tennis? Wow! Do you play often?
+Alice: Yes, almost every weekend. It's a fantastic workout. What about watching sports? Do you have a favorite team?
+Bob: Watching? Oh, absolutely! I'm a huge fan of basketball. My favorite team is the "City Hoppers." They're amazing!
+Alice: The City Hoppers! They are good! I watched their last game. What about individual sports, like swimming or running?
+Bob: Swimming... I can swim, but I'm more of a 'float and relax' kind of swimmer, not a 'race to the finish' kind. Running? Only if something is chasing me!
+Alice: You're hilarious! Maybe we should try badminton sometime. It's fun and not too intense.
+Bob: Badminton? Sounds... less likely to involve a hospital visit. I'm in! But you'll have to teach me. I'm terrible at hand-eye coordination.
+Alice: No worries! It's all about having fun. Do you prefer indoor or outdoor sports?
+Bob: Definitely indoor. Less chance of sunburn... or losing the shuttlecock in a giant bush. What about you?
+Alice: Both! As long as I'm moving. Okay, let's plan that badminton game soon! 
