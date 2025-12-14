@@ -1,0 +1,16 @@
+Alice: Hey Bob, what's up? I was just thinking about lunch.
+Bob: Alice! Perfect timing! I'm _always_ thinking about food. What's your favorite thing to eat?
+Alice: Hmm, that's a tough one! I really like pizza. A classic, you know?
+Bob: Pizza is good, but for me, it's tacos. Specifically, crunchy beef tacos with extra cheese. And guacamole!
+Alice: Oh, tacos are great! But 'extra cheese' and guacamole for you? I'm not surprised!
+Bob: Hey! You can never have too much cheese or guacamole. What about dessert? Do you like sweets?
+Alice: Definitely! I love chocolate cake. Especially with vanilla ice cream.
+Bob: Chocolate cake is divine! But my heart belongs to strawberry cheesecake. The creamy kind, with a thick crust!
+Alice: Wow, you really have strong opinions about food, Bob!
+Bob: It's important, Alice! Food is life! Do you like vegetables?
+Alice: Some of them! I like carrots and broccoli. Not a big fan of spinach, though.
+Bob: Broccoli is okay. But I _love_ roasted potatoes. They're crunchy outside, soft inside... perfection!
+Alice: Roasted potatoes are amazing, I agree! You make me hungry now.
+Bob: Mission accomplished! So, pizza or tacos for our next lunch?
+Alice: Hmm, maybe both? We can order a little bit of everything!
+Bob: Excellent idea, Alice! My kind of friend! 
