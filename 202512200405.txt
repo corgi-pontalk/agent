@@ -1,0 +1,16 @@
+Alice: Hey Bob, what are you up to this weekend? Any exciting plans, or just more homework?
+Bob: Alice! Good to see you! This weekend? Hmm, I'm going to conquer the mountain of dirty dishes in my sink. It's a truly epic quest.
+Alice: Sounds thrilling! After that monumental task, what about your *actual* future plans? Like, next month?
+Bob: Next month? I'm going to invent a self-cleaning dish machine, obviously. Then, I'm going to relax. A lot.
+Alice: Dream big, Bob! I'm planning to visit my aunt in the countryside. It's less dramatic, but at least there are no dishes.
+Bob: Good point! I'm also thinking about learning to cook something beyond instant noodles. My stomach deserves better.
+Alice: That's a great plan! What kind of food are you going to try?
+Bob: I'm going to attempt... a gourmet sandwich. Baby steps, Alice, baby steps.
+Alice: I like your ambition! I'm going to start a new book. A really thick one. I'm going to finish it by the end of the month.
+Bob: Wow, a book *and* a visit? You're busy! Are you going to travel anywhere next year?
+Alice: I would like to visit Japan next year. I'm saving up for it!
+Bob: Japan sounds amazing! I'm going to try to save up for... a new coffee machine. Priorities, you know.
+Alice: Ha! Well, a good coffee machine is important for big plans! We should grab coffee next week to discuss our future empires.
+Bob: Definitely! I'm free on Tuesday. I'll text you.
+Alice: Perfect! See you then, Bob!
+Bob: Bye, Alice! 
