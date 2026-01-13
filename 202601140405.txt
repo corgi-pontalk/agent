@@ -1,0 +1,16 @@
+Alice: Hey Bob! You look super busy. Are you wrestling with a new robot at work?
+Bob: Hi Alice! No robots today, thankfully. Just trying to send an email to a client. My computer is being... dramatic.
+Alice: Ah, the classic tech drama! My laptop decided to update itself right before my online meeting this morning. I almost missed it!
+Bob: Oh no! That sounds stressful. At least you _have_ online meetings. My boss still prefers carrier pigeons. Kidding! We use video calls, too.
+Alice: Video calls are great, right? I can work from home sometimes, thanks to all our digital tools. It saves so much time.
+Bob: Absolutely! And sharing documents online makes teamwork so much easier. No more printing mountains of paper. My back thanks technology.
+Alice: Mine too! Remember when we had to fax everything? Now it's just a click. And our company uses an app for project management. It keeps everyone on track.
+Bob: An app for project management? That's smart! We still use a whiteboard sometimes. Though, our new CRM software is a lifesaver for customer data.
+Alice: CRM? Oh, Customer Relationship Management, right? That sounds super useful for sales. Is it easy to learn?
+Bob: It was a bit tricky at first, but now I can't imagine work without it. It helps us remember everything about our clients.
+Alice: That's the power of technology, I guess. It makes businesses more efficient. Even when your computer is being dramatic!
+Bob: True! Even with the occasional drama, I think technology helps us get more done. And sometimes, it's actually fun.
+Alice: Fun? Like when the office printer actually works on the first try?
+Bob: Exactly! Or when you find a new shortcut that saves you five whole seconds. Pure joy!
+Alice: You're easily entertained, Bob. But I agree. Tech really changed how we do business.
+Bob: Definitely. Now, if only my email would finally send... 
