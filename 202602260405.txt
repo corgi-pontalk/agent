@@ -1,0 +1,20 @@
+Alice: Hey Bob, what are you doing with that book? It looks like it's written in alien language!
+Bob: Hi Alice! This is a programming book. I'm trying to learn the basics.
+Alice: Programming? Like making robots dance?
+Bob: Well, kind of! It's about giving instructions to a computer. Think of it like a recipe.
+Alice: So, if I want my computer to make a sandwich, I write "take bread, add cheese"?
+Bob: Exactly! But in "code." We call those "instructions."
+Alice: "Code." So, my computer understands "cheese sandwich code"?
+Bob: Almost! We use special words. Like, if you want it to make a decision, you use "if/else."
+Alice: "If" the fridge is empty, "else" make a sandwich?
+Bob: Perfect example, Alice! You're getting it!
+Alice: What about a "loop"? Does the computer run around in circles?
+Bob: (chuckles) No, a loop means doing something _repeatedly_. Like, "bake for 20 minutes" – that's a loop.
+Alice: Ah, so "if" the oven is on, "loop" checking the cookies every minute?
+Bob: You're a natural! And if something goes wrong, it's called a "bug."
+Alice: A bug? Like a tiny insect crawling inside the computer?
+Bob: (laughs) Not quite! It's a mistake in the code. We "debug" it to fix it.
+Alice: So I need a bug spray for my computer?
+Bob: (smiling) No, just your brain! You find the mistake and change the instructions.
+Alice: This sounds like fun! Can I try making a sandwich program?
+Bob: Of course! Let's start with "hello world" first. It's tradition! 
