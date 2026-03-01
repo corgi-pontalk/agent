@@ -1,0 +1,17 @@
+Alice: Hey Bob, what's up? You look like you're fighting your phone.
+Bob: Oh, Alice! You found me in my natural habitat: confused by technology. I'm trying to send money to my sister, but this banking app... it's like a puzzle!
+Alice: Haha! Digital banking can be tricky at first. Are you using your mobile banking app?
+Bob: Yes! It says "transfer funds," but then it asks for "recipient details" and "BIC code." What's a BIC code? Is it a secret agent code?
+Alice: (Laughing) Not quite a secret agent! BIC stands for Bank Identifier Code. It's like an address for a bank. You usually only need it for international transfers. For your sister, you probably just need her account number and bank name.
+Bob: Oh! So, I don't need to learn spy codes for a simple transfer? That's a relief! My sister lives just down the street.
+Alice: Exactly! For local transfers, it's usually much simpler. Have you tried paying bills with the app? It's super easy!
+Bob: Paying bills? Online? I still write checks! My landlord thinks I'm from another century.
+Alice: (Grinning) Well, digital banking lets you pay bills instantly. No stamps, no envelopes, no waiting! You can even set up automatic payments.
+Bob: Automatic payments? So, my rent just... goes? Like magic?
+Alice: Pretty much! It saves a lot of time. And you can check your balance anytime, anywhere. It's so convenient.
+Bob: Hmm, "convenient." I like that word. So, no more queuing at the bank?
+Alice: Nope! Unless you want to. You can do almost everything from your phone or computer.
+Bob: This sounds revolutionary! But is it safe? My money!
+Alice: Yes, banks use strong security measures. Just make sure you use a strong password and don't share your details. It's actually very secure.
+Bob: Okay, Alice. You've convinced me. Teach me your digital banking ways, wise one! My landlord will thank you.
+Alice: (Smiling) Come on, let's get that money sent to your sister first. Then, we can explore the magic of bill payments! 
