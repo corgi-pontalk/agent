@@ -1,0 +1,18 @@
+Alice: Hey Bob, what's got you so busy with that notepad? Are you writing a secret novel?
+Bob: Alice! You found my top-secret reporting mission! I'm covering the "Great Cookie Heist" of Elm Street. It's groundbreaking journalism!
+Alice: A cookie heist? Sounds delicious... and mysterious. Who's the culprit?
+Bob: It's Muffin, Mrs. Gable's cat! I saw him near the window, and Mrs. Gable's cookies were gone! It's a clear case.
+Alice: Oh, Muffin the cat? Are you sure, Bob? Did you *actually* see Muffin take the cookies, or just near the window?
+Bob: Well, no, not *exactly* taking them. But he looked suspicious! He had crumbs on his nose!
+Alice: Hmm, crumbs could be from anything, right? For journalism, we need facts. Did you ask Mrs. Gable?
+Bob: No, I was going straight for the scoop! First, I write the headline: "Feline Felon Steals Sweets!"
+Alice: That's a fun headline, but is it fair to Muffin? What if the window was open and a bird flew in? Or maybe Mrs. Gable ate them herself?
+Bob: (Gasps) Mrs. Gable? Eat her own cookies? Never! But a bird... that's a new angle.
+Alice: See? It's important to check your facts and consider all sides. Good reporters don't just guess.
+Bob: So, I should ask Mrs. Gable *before* I print "Muffin the Cookie Thief"?
+Alice: Definitely! And maybe ask Muffin for a comment too, if he's feeling chatty. Just kidding! But seriously, get the full story.
+Bob: So, no "Feline Felon" headline yet. What if Mrs. Gable says *she* ate them? My scoop is ruined!
+Alice: No, it's not ruined, Bob. It's just a different story: "Mystery Solved: Delicious Cookies Devoured by Baker!" That's still news!
+Bob: You're right, Alice. Ethics in cookie reporting are harder than I thought. Thanks for the advice!
+Alice: Any time, Bob. Now, about those crumbs on *your* shirt... did *you* see any cookies disappear?
+Bob: Uh... no comment! This reporter has to go... investigate more crumbs! 
