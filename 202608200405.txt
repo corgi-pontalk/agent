@@ -1,0 +1,15 @@
+Alice: Hey Bob! What are you staring at on your phone so seriously?
+Bob: Oh, hi Alice! I'm reading about AI. It's... a bit scary sometimes.
+Alice: Scary? Like robots taking over the world? (laughs)
+Bob: Not exactly! More like... my smart speaker always knows what I want before I say it. Is it listening *all the time*?
+Alice: Well, it *is* designed to listen for your commands. But yes, privacy is a big thing with technology.
+Bob: See! What if my fridge starts recommending only healthy snacks because it knows I ate too much pizza last night? That's not cool!
+Alice: (giggles) That's a funny thought! But it shows how technology collects data about us.
+Bob: And what about those deepfake videos? They look so real! How can we know what's true?
+Alice: That's a really important question. It's hard to tell sometimes. We need to be careful and think critically.
+Bob: Yes! And what if AI decides who gets a job based on... computer data, not their real talent?
+Alice: That's a good point, Bob. AI can have biases if the data it learns from isn't fair.
+Bob: So, technology can be good, but we need to think about these things, right?
+Alice: Exactly! It's called "ethics in technology." It means thinking about what is right and wrong when we create and use technology.
+Bob: So, no judgy fridges for now, then?
+Alice: (smiles) Not yet, Bob. But it's good to be aware! 
